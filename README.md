@@ -5,11 +5,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeSamkharadze&theme=dark&langs_count=9&custom_title=Repositories)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-114-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 167 Contributions in the Year 2021
+> 🏆 172 Contributions in the Year 2021
  > 
 > 📦 151.9 kB Used in Github's Storage 
  > 
