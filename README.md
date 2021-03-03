@@ -1,3 +1,5 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LukeSamkharadze&count_private=true&theme=dark&show_icons=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-128-blue)
 
