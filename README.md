@@ -7,13 +7,13 @@
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LukeSamkharadze&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-291-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-286-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-306341%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-306101%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 502 Contributions in the Year 2021
+> 🏆 507 Contributions in the Year 2021
  > 
 > 📦 253.3 kB Used in Github's Storage 
  > 
@@ -27,18 +27,18 @@
 
 ```text
 🌞 Morning    11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.24% 
-🌆 Daytime    30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-🌃 Evening    79 commits     █████████░░░░░░░░░░░░░░░░   37.62% 
+🌆 Daytime    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
+🌃 Evening    80 commits     █████████░░░░░░░░░░░░░░░░   38.1% 
 🌙 Night      90 commits     ██████████░░░░░░░░░░░░░░░   42.86%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Monday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.95% 
 Tuesday      25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
 Wednesday    14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Thursday     23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.95% 
+Thursday     21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
 Friday       45 commits     █████░░░░░░░░░░░░░░░░░░░░   21.43% 
 Saturday     44 commits     █████░░░░░░░░░░░░░░░░░░░░   20.95% 
 Sunday       38 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.1%
