@@ -1,8 +1,8 @@
-<center><h1><b>Skills</b></h1></center>
+<h1 align="center"><b>Skills</b></h1>
 
 <table align="center"><tr><td valign="top" width="33%">
 
-<center><h3><b>Frontend</b></h3></center>
+<h3 align="center"><b>Frontend</b></h3>
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -14,7 +14,7 @@
 
 </td><td valign="top" width="33%">
 
-<center><h3><b>Backend</b></h3></center>
+<h3 align="center"><b>Backend</b></h3>
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
@@ -26,7 +26,7 @@
 
 </td><td valign="top" width="33%">
 
-<center><h3><b>Other</b></h3></center>
+<h3 align="center"><b>Other</b></h3>
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
@@ -36,7 +36,7 @@
 
 <br/>
 
-<center><h1><b>Social links</b></h1></center>
+<h1 align="center"><b>Social links</b></h1>
 
 <div align="center">
 <a href="https://github.com/LukeSamkharadze" target="_blank">
@@ -64,7 +64,7 @@
   
 <br/>
 
-<center><h1><b>Github stats</b></h1></center>
+<h1 align="center"><b>Github stats</b></h1>
 
 <!--START_SECTION:waka-->
 
@@ -154,7 +154,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 <br/>
 
-<center><h1><b>Other</b></h1></center>
+<h1 align="center"><b>Other</b></h1>
 
 <div align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=6t2dlzl4qx9930b27m25yvlxp&redirect=true">
