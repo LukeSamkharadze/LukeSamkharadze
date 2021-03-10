@@ -35,8 +35,6 @@
   </a>
 </div>
 
-<br/>
-
 <h1 align="center"><b>Skills</b></h1>
 
 <table align="center"><tr><td valign="top" width="33%">
@@ -73,17 +71,15 @@
 
 </td></tr></table>
 
-<br/>
-
 <h1 align="center"><b>Github stats</b></h1>
+
+<div align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LukeSamkharadze&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
+</div>
 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LukeSamkharadze&theme=dark">
 <!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LukeSamkharadze&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
-</div>
-
-<div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LukeSamkharadze&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
 </div>
 
 <!--START_SECTION:waka-->
