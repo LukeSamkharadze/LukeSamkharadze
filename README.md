@@ -78,11 +78,13 @@
 <h1 align="center"><b>Github stats</b></h1>
 
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LukeSamkharadze&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LukeSamkharadze&theme=dark">
+<!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LukeSamkharadze&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 </div>
 
-<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LukeSamkharadze&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
-
+<div align="center">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?                 username=LukeSamkharadze&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
+</div>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-349-blue)
