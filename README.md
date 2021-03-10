@@ -73,7 +73,6 @@
 </a>  
 </div>  
   
-
 <br/>  
 
 
@@ -81,23 +80,12 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
 <br/>  
 
-
+## Other  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=6t2dlzl4qx9930b27m25yvlxp&cover_image=true&theme=default" /></div>  
 
 <br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LukeSamkharadze&count_private=true&theme=dark&show_icons=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
