@@ -1,39 +1,48 @@
 <h1 align="center"><b>About me</b></h1>
-<div align="center">I don't know what I'm doing 😀</div>
+<div align="center">Thats it</div>
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/LukeSamkharadze" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.facebook.com/LukeSamkharadze" target="_blank">
-  <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/LukeSamkharadze" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://medium.com/@LukeSamkharadze" target="_blank">
-  <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://stackoverflow.com/users/8003414" target="_blank">
-  <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/LukeSamkharadze" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://instagram.com/LukeSamkharadze" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a>  
-</div>
+<table>
+  <tr>
+    <td>
+    <div align="center">
+      <a href="https://stackoverflow.com/users/8003414" target="_blank">
+        <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+      </a>
+      <a href="https://instagram.com/LukeSamkharadze" target="_blank">
+        <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 4px;" height="29"/>
+      </a>
+      <a href="https://www.facebook.com/LukeSamkharadze" target="_blank">
+        <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+      </a>
+      <a href="https://linkedin.com/in/LukeSamkharadze" target="_blank">
+        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+      </a>
+      <a href="https://twitter.com/LukeSamkharadze" target="_blank">
+        <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+      </a>
+      <a href="https://github.com/LukeSamkharadze" target="_blank">
+        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+      </a>
+      <a href="https://medium.com/@LukeSamkharadze" target="_blank">
+        <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+      </a>
+    </div>
 
-<br/>
+  <td/>
 
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=6t2dlzl4qx9930b27m25yvlxp&redirect=true">
-    <img onerror="this.style.display='none'" src="https://spotify-github-profile.vercel.app/api/view?uid=6t2dlzl4qx9930b27m25yvlxp&cover_image=true&theme=default" />
-  </a>
-</div>
+  <td>
+    <div align="center">
+    <img width=1000/>
+      <a href="https://spotify-github-profile.vercel.app/api/view?uid=6t2dlzl4qx9930b27m25yvlxp&redirect=true">
+        <img onerror="this.style.display='none'" src="https://spotify-github-profile.vercel.app/api/view?uid=6t2dlzl4qx9930b27m25yvlxp&cover_image=true&theme=default" />
+      </a>
+    </div>
+  <td/>
+
+  <tr/>
+<table/>
 
 <h1 align="center"><b>Skills</b></h1>
 
