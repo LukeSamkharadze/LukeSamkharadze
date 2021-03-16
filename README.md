@@ -75,7 +75,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-427-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-414-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-306679%20lines%20of%20code-blue)
 
@@ -83,7 +83,7 @@
 
 > 🏆 602 Contributions in the Year 2021
  > 
-> 📦 253.4 kB Used in Github's Storage 
+> 📦 253.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
