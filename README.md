@@ -1,10 +1,9 @@
 <table>
 <tbody>
-<tr>
 
 <tr>
 <td>
-<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LukeSamkharadze&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
+<img width="1333" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LukeSamkharadze&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
 </td>
 
 <td rowspan=2>
@@ -20,7 +19,7 @@
 <tr>
 <td>
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LukeSamkharadze&theme=dark">
+<img width="1333" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LukeSamkharadze&theme=dark">
 </div>
 </td>
 </tr>
