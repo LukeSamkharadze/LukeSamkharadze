@@ -4,12 +4,12 @@
 
 <tr>
 <td>
-<img width="1500" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LukeSamkharadze&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_title=true">
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LukeSamkharadze&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_title=true">
 </td>
 
 <td rowspan=2>
 <div align="center">
-<img width=750/>
+<img width=500/>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=6t2dlzl4qx9930b27m25yvlxp&redirect=true">
 <img onerror="this.style.display='none'" src="https://spotify-github-profile.vercel.app/api/view?uid=6t2dlzl4qx9930b27m25yvlxp&cover_image=true&theme=default" />
 </a>
@@ -20,7 +20,7 @@
 <tr>
 <td>
 <div align="center">
-<img width=1500 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LukeSamkharadze&theme=dark">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LukeSamkharadze&theme=dark">
 </div>
 </td>
 </tr>
