@@ -4,7 +4,7 @@
 
 <tr>
 <td>
-<img width="1750" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LukeSamkharadze&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_title=true">
+<img width="1500" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LukeSamkharadze&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_title=true">
 </td>
 
 <td rowspan=2>
@@ -20,7 +20,7 @@
 <tr>
 <td>
 <div align="center">
-<img width="1750" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LukeSamkharadze&theme=dark">
+<img width="1500" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LukeSamkharadze&theme=dark">
 </div>
 </td>
 </tr>
