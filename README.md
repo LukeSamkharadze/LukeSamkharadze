@@ -60,13 +60,12 @@
 <tr>
 <td>
 <div align="center">
-<img width=1000/>
+<img width=2000/>
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LukeSamkharadze&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
 </div>
 </td>
 <td>
 <div align="center">
-<img width=1000/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LukeSamkharadze&theme=dark">
 </div>
 </td>
