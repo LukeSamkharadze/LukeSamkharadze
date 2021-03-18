@@ -23,8 +23,6 @@
 </td>
 </tr>
 
-</tr>
-
 <tr>
 <td>
 <div align="center">
