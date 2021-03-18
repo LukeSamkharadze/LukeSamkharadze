@@ -8,9 +8,8 @@
 
 <td rowspan=2>
 <div align="center">
-<img width=500/>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=6t2dlzl4qx9930b27m25yvlxp&redirect=true">
-<img onerror="this.style.display='none'" src="https://spotify-github-profile.vercel.app/api/view?uid=6t2dlzl4qx9930b27m25yvlxp&cover_image=true&theme=default" />
+<img width="500" src="https://spotify-github-profile.vercel.app/api/view?uid=6t2dlzl4qx9930b27m25yvlxp&cover_image=true&theme=default" />
 </a>
 </div>
 </td>
