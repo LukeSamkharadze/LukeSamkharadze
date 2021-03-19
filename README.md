@@ -70,9 +70,8 @@
 </td>
 </tr>
 
-<tr>
-<td colspan="2">
-<br>
+</tbody>
+</table>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-236-blue)
@@ -156,11 +155,6 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-</td>
-</tr>
-</tbody>
-</table>
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LukeSamkharadze&count_private=true&theme=dark&show_icons=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
