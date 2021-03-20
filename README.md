@@ -29,15 +29,15 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://plumbr.io/app/uploads/2019/06/java.png" alt="Java" height="50" />  
+<img style="margin: 10px; background-color: white; border-radius: 2px; padding: 5px" src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" height="35" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="https://camo.githubusercontent.com/c38bf4a44750bd9b576a2259a5074dd277d63f0a412b5b1f31f54e516711ef5b/687474703a2f2f736173732d6c616e672e636f6d2f6173736574732f696d672f7374796c6567756964652f7365616c2d636f6c6f722d61656630333534632e706e67" alt="Sass" height="45" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="45" />  
 <img style="margin: 10px" src="https://camo.githubusercontent.com/ea72bc06ae6656ab1ba533a04826c370914d6e60874a82e71df7e97935d2bf80/68747470733a2f2f7777772e706e676b65792e636f6d2f706e672f66756c6c2f3132342d313234393439345f616e67756c61722d362d6c6f676f2e706e67" alt="Angular" height="48" />
 <img style="margin: 10px" src="https://codingfinder.com/wp-content/uploads/2019/12/nodejslogo.png?fbclid=IwAR2CYLJrmGzPOIFgTYAD0ijsyJ1IBM0taf-yWJ16vGezmzkdlZu0EQHn3VA" alt="Node.js" height="48" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="48" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="48" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="48" />
 </div>
 </td>
 
