@@ -1,4 +1,3 @@
-<img style="margin: 10px; background-color:red" src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" height="50" />  
 <table>
 <tbody>
 
