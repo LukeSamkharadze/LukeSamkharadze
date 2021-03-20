@@ -31,9 +31,9 @@
 <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 <img src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" />
-<img  src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45" /> 
-<img  src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45" /> 
+<img src="https://i.imgur.com/94n31ta.png?1" alt="HTML5" height="46" />  
+<img src="https://cdn.345tool.com/public/logos/css-formatter-logo.png" alt="CSS3" height="44" />  
 <img src="https://cdn.iconscout.com/icon/free/png-256/sass-2752078-2284895.png" alt="Sass" height="45" />  
 <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="46" />  
 <img src="https://camo.githubusercontent.com/ea72bc06ae6656ab1ba533a04826c370914d6e60874a82e71df7e97935d2bf80/68747470733a2f2f7777772e706e676b65792e636f6d2f706e672f66756c6c2f3132342d313234393439345f616e67756c61722d362d6c6f676f2e706e67" alt="Angular" height="48" />
