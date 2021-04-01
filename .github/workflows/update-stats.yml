@@ -17,3 +17,8 @@ jobs:
           SHOW_LINES_OF_CODE: TRUE
           SHOW_TITLE: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SHOW_OS: false
+          SHOW_PROJECTS: false
+          SHOW_LANGUAGE: false
+          SHOW_TIMEZONE: false
+          SHOW_EDITORS: false
