@@ -75,13 +75,13 @@
 </table>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-697-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-683-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-306679%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 652 Contributions in the Year 2021
+> 🏆 653 Contributions in the Year 2021
  > 
 > 📦 253.5 kB Used in Github's Storage 
  > 
@@ -117,20 +117,6 @@ Sunday       27 commits     ███░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Tbilisi
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in C#** 
