@@ -39,7 +39,7 @@
 <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="46" />  
 <img src="https://camo.githubusercontent.com/ea72bc06ae6656ab1ba533a04826c370914d6e60874a82e71df7e97935d2bf80/68747470733a2f2f7777772e706e676b65792e636f6d2f706e672f66756c6c2f3132342d313234393439345f616e67756c61722d362d6c6f676f2e706e67" alt="Angular" height="48" />
 <img src="https://codingfinder.com/wp-content/uploads/2019/12/nodejslogo.png?fbclid=IwAR2CYLJrmGzPOIFgTYAD0ijsyJ1IBM0taf-yWJ16vGezmzkdlZu0EQHn3VA" alt="Node.js" height="48" /> 
-<img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="48" />   
+<!-- <img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="48" />    -->
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="48" />
 </div>
 </td>
