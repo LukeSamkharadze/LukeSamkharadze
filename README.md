@@ -75,13 +75,13 @@
 </table>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-633-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-627-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-398543%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 659 Contributions in the Year 2021
+> 🏆 660 Contributions in the Year 2021
  > 
 > 📦 258.6 kB Used in Github's Storage 
  > 
@@ -91,34 +91,6 @@
  > 
 > 🔑 6 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-🌆 Daytime    38 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.1% 
-🌃 Evening    78 commits     █████████░░░░░░░░░░░░░░░░   37.14% 
-🌙 Night      79 commits     █████████░░░░░░░░░░░░░░░░   37.62%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.95% 
-Tuesday      27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
-Wednesday    22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
-Thursday     40 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
-Friday       50 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-Saturday     21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Sunday       27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
 **I Mostly Code in C#** 
 
 ```text
