@@ -75,19 +75,19 @@
 </table>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-466-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-392-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-407155%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 664 Contributions in the Year 2021
+> 🏆 666 Contributions in the Year 2021
  > 
 > 📦 260.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
  > 
