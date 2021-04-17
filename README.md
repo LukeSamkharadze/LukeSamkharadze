@@ -75,7 +75,7 @@
 </table>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-407155%20lines%20of%20code-blue)
 
@@ -109,7 +109,8 @@ Wednesday    22 commits     ██░░░░░░░░░░░░░░░�
 Thursday     40 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.87% 
 Friday       50 commits     ██████░░░░░░░░░░░░░░░░░░░   23.58% 
 Saturday     21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.91% 
-Sunday       29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.68%```
+Sunday       29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.68%
+```
 
 **I Mostly Code in C#** 
 
