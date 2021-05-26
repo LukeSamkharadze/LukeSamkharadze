@@ -26,17 +26,22 @@
 <tr>
 <td>
 <div align="center">
-<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python" height="45" />
 <img src="https://i.ibb.co/FYSXqYP/image-5.png" alt="Java" height="44">
 <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" />
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45" />  
-<img src="https://i.imgur.com/94n31ta.png?1" alt="HTML5" height="46" />  
-<img src="https://cdn.345tool.com/public/logos/css-formatter-logo.png" alt="CSS3" height="44" />  
-<img src="https://cdn.iconscout.com/icon/free/png-256/sass-2752078-2284895.png" alt="Sass" height="45" />  
-<!-- <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="46" />   -->
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45" />
+<img src="https://i.imgur.com/94n31ta.png?1" alt="HTML5" height="46" />
+<img src="https://cdn.345tool.com/public/logos/css-formatter-logo.png" alt="CSS3" height="44" />
+<img src="https://cdn.iconscout.com/icon/free/png-256/sass-2752078-2284895.png" alt="Sass" height="45" />
+<img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="46" />
 <img src="https://camo.githubusercontent.com/ea72bc06ae6656ab1ba533a04826c370914d6e60874a82e71df7e97935d2bf80/68747470733a2f2f7777772e706e676b65792e636f6d2f706e672f66756c6c2f3132342d313234393439345f616e67756c61722d362d6c6f676f2e706e67" alt="Angular" height="48" />
 <!-- <img src="https://codingfinder.com/wp-content/uploads/2019/12/nodejslogo.png?fbclid=IwAR2CYLJrmGzPOIFgTYAD0ijsyJ1IBM0taf-yWJ16vGezmzkdlZu0EQHn3VA" alt="Node.js" height="48" />  -->
 <img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="48" />
