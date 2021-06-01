@@ -79,10 +79,8 @@
 </tr>
 <tr>
 <td colspan=2>
-<div align="right">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lukesamkharadze/0">
 <img src="https://github-readme-medium-recent-article.vercel.app/medium/@lukesamkharadze/0" alt="Recent Article">
-</div>
 </a>
 </td>
 </tr>
