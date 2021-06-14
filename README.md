@@ -88,6 +88,8 @@
 </table>
 
 
+<img src="https://komarev.com/ghpvc/?username=lukesamkharadze64&label=Profile%20views&color=0e75b6&style=flat" alt="lukesamkharadze"/>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-157-blue)
 
