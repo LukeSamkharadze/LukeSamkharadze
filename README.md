@@ -91,13 +91,11 @@
 <img src="https://komarev.com/ghpvc/?username=lukesamkharadze64&label=Profile%20Views&color=0e75b6&style=flat" alt="lukesamkharadze"/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-157-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-587191%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 945 Contributions in the Year 2021
+> 🏆 948 Contributions in the Year 2021
  > 
 > 📦 264.5 kB Used in Github's Storage 
  > 
@@ -110,18 +108,18 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    105 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.73% 
+🌞 Morning    108 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
 🌆 Daytime    217 commits    █████░░░░░░░░░░░░░░░░░░░░   22.17% 
-🌃 Evening    426 commits    ███████████░░░░░░░░░░░░░░   43.51% 
+🌃 Evening    423 commits    ██████████░░░░░░░░░░░░░░░   43.21% 
 🌙 Night      231 commits    ██████░░░░░░░░░░░░░░░░░░░   23.6%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.67% 
+Monday       127 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.97% 
 Tuesday      107 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.93% 
-Wednesday    217 commits    █████░░░░░░░░░░░░░░░░░░░░   22.17% 
+Wednesday    214 commits    █████░░░░░░░░░░░░░░░░░░░░   21.86% 
 Thursday     164 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.75% 
 Friday       155 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.83% 
 Saturday     83 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.48% 
@@ -152,7 +150,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LukeSamkharadze/LukeSamkharadze/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/06/2021
+ Last Updated on 14/06/2021
 <!--END_SECTION:waka-->
 
 <!--
