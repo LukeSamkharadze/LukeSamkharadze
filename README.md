@@ -30,24 +30,25 @@
 <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python" height="45" />
 <img src="https://i.ibb.co/FYSXqYP/image-5.png" alt="Java" height="44">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWUhyE9qbuKxTdt8e7oLN8ai23tqFR_25QvcOuBZZvfMPjhmz3X54Ivb0jf6GEu45Pvbo&usqp=CAU" alt="MySQL" height="44" />
 <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" />
 <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45" />
 <img src="https://i.imgur.com/94n31ta.png?1" alt="HTML5" height="46" />
 <img src="https://cdn.345tool.com/public/logos/css-formatter-logo.png" alt="CSS3" height="44" />
 <img src="https://cdn.iconscout.com/icon/free/png-256/sass-2752078-2284895.png" alt="Sass" height="45" />
 <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="47" />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWUhyE9qbuKxTdt8e7oLN8ai23tqFR_25QvcOuBZZvfMPjhmz3X54Ivb0jf6GEu45Pvbo&usqp=CAU" alt="MySQL" height="45" />
-<img src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" alt="PostgreSQL" height="48" />
-<img src="https://www.underworldcode.org/content/images/size/w600/2020/08/Moby-logo.png" alt="Docker" height="40" />
+<img src="https://brandslogos.com/wp-content/uploads/images/large/xamarin-logo.png" alt="Xamarin" height="45" />
 <img src="https://camo.githubusercontent.com/ea72bc06ae6656ab1ba533a04826c370914d6e60874a82e71df7e97935d2bf80/68747470733a2f2f7777772e706e676b65792e636f6d2f706e672f66756c6c2f3132342d313234393439345f616e67756c61722d362d6c6f676f2e706e67" alt="Angular" height="48" />
 <img src="https://codingfinder.com/wp-content/uploads/2019/12/nodejslogo.png?fbclid=IwAR2CYLJrmGzPOIFgTYAD0ijsyJ1IBM0taf-yWJ16vGezmzkdlZu0EQHn3VA" alt="Node.js" height="48" />
 <img src="https://cdn.iconscout.com/icon/free/png-512/nginx-3521604-2945048.png" alt="Nginx" height="48">
 <img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="48" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" alt="Bash" height="50" />  
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="48" />
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python" height="45" />
+<img src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" alt="PostgreSQL" height="48" />
+<img src="https://www.underworldcode.org/content/images/size/w600/2020/08/Moby-logo.png" alt="Docker" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 <img src="https://avatars.githubusercontent.com/u/4430336?s=200&v=4" alt="Oracle" height="50" />
 </div>
 </td>
