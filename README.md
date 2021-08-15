@@ -43,7 +43,8 @@
 <img src="https://codingfinder.com/wp-content/uploads/2019/12/nodejslogo.png?fbclid=IwAR2CYLJrmGzPOIFgTYAD0ijsyJ1IBM0taf-yWJ16vGezmzkdlZu0EQHn3VA" alt="Node.js" height="48" />
 <img src="https://cdn.iconscout.com/icon/free/png-512/nginx-3521604-2945048.png" alt="Nginx" height="48">
 <img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="48" />
-<img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" alt="React" height="47">
+<img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" alt="React" height="46">
+<img src="https://i.ibb.co/MMR10dx/mongo.png" alt="MongoDB" height="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" alt="Bash" height="50" />  
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="48" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python" height="45" />
