@@ -84,6 +84,16 @@
 </tr>
 <tr>
 <td colspan=2>
+
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=LukeSamkharadze&theme=darkhub&row=1&column=8">
+</div>
+
+</td>
+</tr>
+<tr>
+<td colspan=2>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lukesamkharadze/0">
 <img src="https://github-readme-medium-recent-article.vercel.app/medium/@lukesamkharadze/0" alt="Recent Article">
 </a>
