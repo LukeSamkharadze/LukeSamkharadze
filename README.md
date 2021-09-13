@@ -110,13 +110,13 @@
 
 **🐱 My Github Data** 
 
-> 🏆 1,352 Contributions in the Year 2021
+> 🏆 1,353 Contributions in the Year 2021
  > 
 > 📦 275.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 25 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
  > 
@@ -165,7 +165,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LukeSamkharadze/LukeSamkharadze/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/09/2021
+ Last Updated on 13/09/2021
 <!--END_SECTION:waka-->
 
 <!--
