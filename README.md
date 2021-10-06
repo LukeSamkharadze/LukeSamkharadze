@@ -53,6 +53,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" alt="PostgreSQL" height="48" />
 <img src="https://www.underworldcode.org/content/images/size/w600/2020/08/Moby-logo.png" alt="Docker" height="40" />
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="46" />  
 <img src="https://avatars.githubusercontent.com/u/4430336?s=200&v=4" alt="Oracle" height="50" />
 </div>
 </td>
