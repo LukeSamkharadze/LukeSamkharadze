@@ -46,7 +46,8 @@
 <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" alt="React" height="46">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="46" />  
 <img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="Etherium" height="47" />
-<img src="https://i.ibb.co/MMR10dx/mongo.png" alt="MongoDB" height="50" />
+<img src="http://octo-hackathon.github.io/DigitalShowcase/images/expressIcon.png" alt="Express" height="51" />
+<img src="https://i.ibb.co/MMR10dx/mongo.png" alt="MongoDB" height="51" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" alt="Bash" height="50" />  
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="48" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python" height="45" />
