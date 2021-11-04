@@ -32,6 +32,7 @@
 <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />
 <img src="https://i.ibb.co/FYSXqYP/image-5.png" alt="Java" height="44">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWUhyE9qbuKxTdt8e7oLN8ai23tqFR_25QvcOuBZZvfMPjhmz3X54Ivb0jf6GEu45Pvbo&usqp=CAU" alt="MySQL" height="44" />
+<img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102017/logo_0.png?17TK91b1B6OvV2MFrCLfukw1c8oEaNr6&itok=vsanFiUj" alt="AWS" height="44"/>
 <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" />
 <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45" />
 <img src="https://i.imgur.com/94n31ta.png?1" alt="HTML5" height="46" />
