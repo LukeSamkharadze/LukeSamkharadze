@@ -102,11 +102,13 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lukesamkharadze/0">
 <img src="https://github-readme-medium-recent-article.vercel.app/medium/@lukesamkharadze/0" alt="Recent Article">
 </a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lukesamkharadze/1">
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@lukesamkharadze/1" alt="Recent Article">
+</a>
 </td>
 </tr>
 </tbody>
 </table>
-
 
 <img src="https://komarev.com/ghpvc/?username=lukesamkharadze64&label=Profile%20Views&color=0e75b6&style=flat" alt="lukesamkharadze"/>
 
