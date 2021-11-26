@@ -113,7 +113,7 @@
 <img src="https://komarev.com/ghpvc/?username=lukesamkharadze64&label=Profile%20Views&color=0e75b6&style=flat" alt="lukesamkharadze"/>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-958951%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-958953%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -158,11 +158,11 @@ Sunday       129 commits    ██░░░░░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-C#                       10 repos            █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+TypeScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   26.67% 
+C#                       10 repos            █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.89%
 
 ```
 
@@ -172,7 +172,7 @@ JavaScript               4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LukeSamkharadze/LukeSamkharadze/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/11/2021
+ Last Updated on 26/11/2021
 <!--END_SECTION:waka-->
 
 <!--
