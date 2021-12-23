@@ -114,6 +114,9 @@
 <img src="https://github-readme-medium-recent-article.vercel.app/medium/@lukesamkharadze/1" alt="Recent Article">
 </a>
 
+<br>
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=lukesamkharadze64&label=Profile%20Views&color=0e75b6&style=flat" alt="lukesamkharadze"/>
 
 <!--START_SECTION:waka-->
