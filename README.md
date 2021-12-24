@@ -100,7 +100,7 @@
 <tr>
 <td colspan=2>
  
-[![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=lukesamkharadze&theme=react-dark)](https://github.com/lukesamkharadze)
+[![](https://activity-graph.herokuapp.com/graph?username=lukesamkharadze&theme=react-dark)](https://github.com/lukesamkharadze)
 
 </td>
 </tr>
