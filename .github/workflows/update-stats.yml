@@ -1,5 +1,3 @@
-name: Waka Readme
-
 on:
   workflow_dispatch:
   schedule:
