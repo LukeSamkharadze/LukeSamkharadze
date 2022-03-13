@@ -1,3 +1,5 @@
+name: "update-stats"
+
 on:
   workflow_dispatch:
   schedule:
