@@ -122,6 +122,8 @@
 <img src="https://komarev.com/ghpvc/?username=lukesamkharadze64&label=Profile%20Views&color=0e75b6&style=flat" alt="lukesamkharadze"/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-789%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -181,7 +183,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LukeSamkharadze/LukeSamkharadze/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/05/2022 20:13:45 UTC
+ Last Updated on 07/05/2022 20:10:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
