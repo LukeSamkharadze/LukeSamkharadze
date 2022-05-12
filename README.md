@@ -122,13 +122,13 @@
 <img src="https://komarev.com/ghpvc/?username=lukesamkharadze64&label=Profile%20Views&color=0e75b6&style=flat" alt="lukesamkharadze"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-789%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,243 Contributions in the Year 2022
+> 🏆 1,245 Contributions in the Year 2022
  > 
 > 📦 286.9 kB Used in GitHub's Storage 
  > 
@@ -183,7 +183,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LukeSamkharadze/LukeSamkharadze/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 20:13:54 UTC
+ Last Updated on 12/05/2022 20:14:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
