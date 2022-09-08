@@ -6,6 +6,7 @@
 <img width="1333" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LukeSamkharadze&count_private=true&show_icons=true&include_all_commits=true&theme=dark&icon_color=fa8b00">
 </td>
 
+<!--
 <td rowspan=2>
 <div align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=6t2dlzl4qx9930b27m25yvlxp&redirect=true">
@@ -13,6 +14,7 @@
 </a>
 </div>
 </td>
+-->
 </tr>
 
 <tr>
