@@ -6,27 +6,9 @@
 <img width="1333" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LukeSamkharadze&count_private=true&show_icons=true&include_all_commits=true&theme=dark&icon_color=fa8b00">
 </td>
 
-<!--
+
 <td rowspan=2>
 <div align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=6t2dlzl4qx9930b27m25yvlxp&redirect=true">
-<img width="500" src="https://spotify-github-profile.vercel.app/api/view?uid=6t2dlzl4qx9930b27m25yvlxp&cover_image=true&theme=default" />
-</a>
-</div>
-</td>
--->
-</tr>
-
-<tr>
-<td>
-<div align="center">
-<img width="1333" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LukeSamkharadze&theme=dark">
-</div>
-</td>
-</tr>
-
-<tr>
-<td>
 <div align="center">
 <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
@@ -64,7 +46,20 @@
 </div>
 </td>
 
+
+
+</tr>
+
+<tr>
 <td>
+<div align="center">
+<img width="1333" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LukeSamkharadze&theme=dark">
+</div>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
 <div align="center">
 <a href="https://stackoverflow.com/users/8003414" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
