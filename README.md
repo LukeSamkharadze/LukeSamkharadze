@@ -77,15 +77,13 @@
 <img src="https://komarev.com/ghpvc/?username=lukesamkharadze64&label=Profile%20Views&color=0e75b6&style=flat" alt="lukesamkharadze"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%202%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 385.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,140 Contributions in the Year 2023
+> 🏆 1,151 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -93,27 +91,6 @@
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1102 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-🌆 Daytime                3850 commits        █████████░░░░░░░░░░░░░░░░   36.42 % 
-🌃 Evening                3677 commits        █████████░░░░░░░░░░░░░░░░   34.78 % 
-🌙 Night                  1943 commits        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1108 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Tuesday                  1715 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Wednesday                2322 commits        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-Thursday                 2528 commits        ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-Friday                   1794 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Saturday                 768 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-Sunday                   337 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-```
-
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -131,7 +108,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LukeSamkharadze/LukeSamkharadze/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2023 20:08:57 UTC
+ Last Updated on 06/12/2023 20:08:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
