@@ -71,13 +71,11 @@
 <img src="https://komarev.com/ghpvc/?username=lukesamkharadze64&label=Profile%20Views&color=0e75b6&style=flat" alt="lukesamkharadze"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%202%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 386.9 kB Used in GitHub's Storage 
+> 📦 387.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -85,27 +83,6 @@
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                5234 commits        █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-🌆 Daytime                2434 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-🌃 Evening                7511 commits        ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-🌙 Night                  13136 commits       ████████████░░░░░░░░░░░░░   46.39 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1749 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Tuesday                  4692 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-Wednesday                8262 commits        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-Thursday                 6075 commits        █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-Friday                   2793 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Saturday                 4232 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Sunday                   512 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-```
-
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -123,7 +100,7 @@ Hack                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LukeSamkharadze/LukeSamkharadze/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2024 20:12:11 UTC
+ Last Updated on 11/04/2024 20:11:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
