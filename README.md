@@ -79,8 +79,6 @@
 
 > 📦 387.8 kB Used in GitHub's Storage 
  > 
-> 🏆 121 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 28 Public Repositories 
@@ -125,7 +123,7 @@ Hack                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LukeSamkharadze/LukeSamkharadze/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2024 20:16:05 UTC
+ Last Updated on 10/06/2024 20:16:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
