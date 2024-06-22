@@ -77,9 +77,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 388.9 kB Used in GitHub's Storage 
- > 
-> 🏆 168 Contributions in the Year 2024
+> 📦 389.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -125,7 +123,7 @@ Hack                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LukeSamkharadze/LukeSamkharadze/main/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2024 20:15:05 UTC
+ Last Updated on 22/06/2024 20:15:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
