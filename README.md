@@ -71,15 +71,11 @@
 <img src="https://komarev.com/ghpvc/?username=lukesamkharadze64&label=Profile%20Views&color=0e75b6&style=flat" alt="lukesamkharadze"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%202%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-113.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-117.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
- > 
-> 🏆 1,151 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -87,27 +83,6 @@
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                11013 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-🌆 Daytime                3668 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-🌃 Evening                18035 commits       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-🌙 Night                  35002 commits       █████████████░░░░░░░░░░░░   51.69 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   3507 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Tuesday                  10946 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Wednesday                19271 commits       ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-Thursday                 15949 commits       ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-Friday                   7611 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Saturday                 9763 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Sunday                   671 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-```
-
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -125,7 +100,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LukeSamkharadze/LukeSamkharadze/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2024 20:22:55 UTC
+ Last Updated on 22/10/2024 20:22:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
