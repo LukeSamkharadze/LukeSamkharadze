@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%202%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -13,37 +13,37 @@
  > 
 > 📜 31 Public Repositories 
  > 
-> 🔑 12 Private Repositories 
+> 🔑 14 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2111 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-🌆 Daytime                408 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-🌃 Evening                2823 commits        ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-🌙 Night                  6260 commits        █████████████░░░░░░░░░░░░   53.96 % 
+🌞 Morning                2130 commits        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+🌆 Daytime                408 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+🌃 Evening                2836 commits        ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+🌙 Night                  6367 commits        ██████████████░░░░░░░░░░░   54.23 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   250 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Tuesday                  1694 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Wednesday                2138 commits        █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-Thursday                 4257 commits        █████████░░░░░░░░░░░░░░░░   36.69 % 
-Friday                   1290 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Saturday                 1820 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Sunday                   153 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Monday                   251 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Tuesday                  1711 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Wednesday                2154 commits        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Thursday                 4299 commits        █████████░░░░░░░░░░░░░░░░   36.62 % 
+Friday                   1307 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Saturday                 1844 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Sunday                   175 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               26 repos            ████████░░░░░░░░░░░░░░░░░   32.50 % 
-Python                   17 repos            █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+TypeScript               28 repos            █████████░░░░░░░░░░░░░░░░   34.15 % 
+Python                   17 repos            █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 
 
@@ -53,7 +53,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LukeSamkharadze/LukeSamkharadze/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2025 20:23:28 UTC
+ Last Updated on 19/05/2025 20:24:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
