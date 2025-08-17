@@ -18,20 +18,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                11771 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-🌆 Daytime                422 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-🌃 Evening                14162 commits       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-🌙 Night                  50946 commits       ████████████████░░░░░░░░░   65.91 % 
+🌞 Morning                11762 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+🌆 Daytime                419 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+🌃 Evening                14137 commits       █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+🌙 Night                  50935 commits       ████████████████░░░░░░░░░   65.93 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1919 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Tuesday                  12739 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Wednesday                16454 commits       █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Thursday                 23259 commits       ████████░░░░░░░░░░░░░░░░░   30.09 % 
-Friday                   11025 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Saturday                 11681 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Monday                   1916 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Tuesday                  12739 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Wednesday                16453 commits       █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Thursday                 23250 commits       ████████░░░░░░░░░░░░░░░░░   30.10 % 
+Friday                   10990 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Saturday                 11681 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
 Sunday                   224 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 ```
 
@@ -39,11 +39,11 @@ Sunday                   224 commits         ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               28 repos            █████████░░░░░░░░░░░░░░░░   35.00 % 
-Python                   16 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+TypeScript               28 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+Python                   13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 
 
@@ -53,7 +53,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LukeSamkharadze/LukeSamkharadze/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2025 20:36:35 UTC
+ Last Updated on 17/08/2025 20:37:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
